@@ -1,0 +1,96 @@
+/* lato font family */
+
+@font-face{
+    font-family: Lato;
+    src: url(../assets/fonts/Lato/Lato-Regular.ttf);
+
+}
+
+/* Pacifico font family  */
+
+@font-face{
+    font-family: Pacifico;
+    src: url(../assets/fonts/Pacifico/Pacifico-Regular.ttf);
+}
+
+/* Righteous font Family */
+
+@font-face{
+    font-family: Righteous;
+    src: url(../assets/fonts/Righteous/Righteous-Regular.ttf);
+}
+
+/* Roboto font Family */
+
+@font-face{
+    font-family: Roboto;
+    src: url(../assets/fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+
+/* Ubuntu font Family */
+
+@font-face{
+    font-family: Ubuntu;
+    src: url(../assets/fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+
+/* B612 font family */
+@font-face{
+    font-family: B612;
+    src: url(../assets/fonts/B612/B612-Regular.ttf);
+}
+
+/* cardo font family */
+@font-face{
+    font-family: Cardo;
+    src: url(../assets/fonts/Cardo/Cardo-Regular.ttf);
+}
+
+/* contrail-one font family */
+@font-face{
+    font-family: Contrail One;
+    src: url(../assets/fonts/Contrail_One/ContrailOne-Regular.ttf);
+}
+
+/* montserrat text font family */
+@font-face{
+    font-family: Montserrat;
+    src: url(../assets/fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+/*  montserrat sub font family */
+@font-face{
+    font-family: Montserrat Subrayada;
+    src: url(../assets/fonts/Montserrat_Subrayada/MontserratSubrayada-Regular.ttf);
+}
+
+/* rakkas font family */
+@font-face{
+    font-family: Rakkas;
+    src: url(../assets/fonts/Rakkas/Rakkas-Regular.ttf);
+}
+
+/* playball font family */
+@font-face{
+    font-family: Playball;
+    src: url(../assets/fonts/Playball/Playball-Regular.ttf);
+}
+
+/* muli font family */
+
+@font-face{
+    font-family: Muli;
+    src: url(../assets/fonts/Muli/static/Muli-Regular.ttf);
+}
+
+/* petit formal script font family */
+
+@font-face{
+    font-family: Petit Formal Script;
+    src: url(../assets/fonts/Petit_Formal_Script/PetitFormalScript-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    src: url(../assets/fonts/Playball/Playball-Regular.ttf);
+}
